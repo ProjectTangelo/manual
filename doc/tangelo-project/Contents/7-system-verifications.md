@@ -1,5 +1,22 @@
 #System Verifications#
 
+## Items/Function to be tested
+### Installing and managing software
+### Password management
+### Account management
+### Instance management
+### Lesson Plans and Assignments
+### Terminal Sessions
+## Description of test cases
+## Justification of test cases
+## Test run procedure and results
+### Visual Diff/PhantomJS Testing
+### Protractor Testing
+###  Other kind of testing
+###  Other kind of testing
+###  Other kind of testing
+## Discussion of test results
+
 
   <table cellpadding="0" cellspacing="0" class="c34">
     <tbody>
