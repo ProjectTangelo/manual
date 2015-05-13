@@ -2,12 +2,6 @@
 
 <div class="break"></div>
 
-## Abstract
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero animi molestiae ea sunt consequuntur nemo possimus dolore temporibus, aperiam sed ut eum alias mollitia voluptatum. Molestias adipisci praesentium sapiente assumenda.
-
-<div class="break"></div>
-
 ## Statement of Problem Area
 
 The purpose of this project was to develop an application that would allow individuals, such as teacher or professors, to manage isolated container instances, that would in turn be accessed via a browser by users, such as students.
@@ -16,7 +10,7 @@ The purpose of this project was to develop an application that would allow indiv
 
 ## Brief Project Description
 
-Our team would like to create an application that allows user to login to a Linux  terminal session through the browser. The user’s session will be sandboxed and he or she will be able to have full control over their container instance. An important feature of our application is that it will be easy to install by an administrator so that he or she may use it on their own servers. 
+Tangelo an application that allows user to login to a Linux  terminal session through the browser. The user’s session will be sandboxed and he or she will be able to have full control over their container instance. An important feature of our application is that it will be easy to install by an administrator so that he or she may use it on their own servers. 
 
 The administrator may also provide documents for things like a lesson plan or assignments that other users may refer to while using the system. Another important feature would be allowing the administrator to control each container a user has. If a user locks up their container, the administrator will be able to halt and reset it. An application such as ours can be useful for small vocational schools or secondary level institutions where appropriating a large IT staff is not feasible.
 
