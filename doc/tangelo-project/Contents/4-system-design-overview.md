@@ -1,12 +1,32 @@
 #System Design Overview#
-## System Data Flow Diagrams
-## System Structure Charts
+
+## Stack
+
+Below is an overview of the software stack we used for developing Tangelo
+
+![Master Node Stack](images/stack.png)
+
+<div class="break"></div>
 ## Description of System Operation
 
 ### Communication between master and nodes
 
-Communication between master and minion nodes is down with SaltStack.
+![Salt Communication](images/salt.png)
 
+Communication between master and minion nodes is down with SaltStack. There is a daemon that runs on the minion and master that facilitates this. Salt modules are programs.
+
+We are using Salt for remote execution and the storing of configuration directives can be simply done by logging onto the master machine and then executing a command on one or many other machines at once.
+
+The way in which we are using Salt is to set up all the individual instances of Linux. We also combined the power of Salt with simple Linux Bash command to run and return needed data across all running Linux instances to get back information for example CPU,  memory and disk usage.
+
+<div class="break"></div>
+
+![Flat File database](images/lxc_relation.png)
+
+
+To keep track of user’s keys and login information for specific users we created a simple flat file database. 
+
+<div class="break"></div>
 
 ## Equipment Configuration
 
