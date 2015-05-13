@@ -1,9 +1,11 @@
 #System Design Overview#
 ## System Data Flow Diagrams
 ## System Structure Charts
-## System Data Dictionary
-## System Internal Data Structure Preview
 ## Description of System Operation
+
+### Communication between master and nodes
+
+Communication between master and minion nodes is down with SaltStack.
 
 
 ## Equipment Configuration
