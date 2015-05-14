@@ -16,6 +16,8 @@ David says he's a web and android developer and shit like that.
 
 ### Eduardo Arevalos
 
+Follower of modern events related to gaming and computers.  Hard working student who took up interest in computer science at the end of high school.
+
 ### Forest Turner
 
 ### Johnny Patterson
