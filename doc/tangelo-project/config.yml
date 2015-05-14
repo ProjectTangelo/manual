@@ -26,8 +26,6 @@ book:
         - { element: chapter, number: 9, content: 10-program-listings.md }
         - { element: chapter, number: 10, content: 11-api.md }
         - { element: lof }
-        - { element: lot }
-
     editions:
         ebook:
             format:         epub
