@@ -4,7 +4,7 @@
 
 ## Statement of Problem Area
 
-The purpose of this project was to develop an application that would allow individuals, such as teacher or professors, to manage isolated container instances, that would in turn be accessed via a browser by users, such as students.
+During a recent CSULB semester, the Linux computer labs were replaced by Windows labs.  As a result, classes that heavily focused on using the Linux operating system forced students to install Linux on their personal computers and laptops via manual installation or a virtual machine.  This process has proven to be strenuous and adds an unnecessary setup time for the class.  Problems that students encounter may also rely on their hardware, due to the lack of uniform development environment.
 
 <div class="break"></div>
 
