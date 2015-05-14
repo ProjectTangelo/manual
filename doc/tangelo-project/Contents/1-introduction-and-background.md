@@ -12,7 +12,7 @@ During a recent CSULB semester, the Linux computer labs were replaced by Windows
 
 ### David Nuon
 
-Graphics designer turned programmer, who works on web and mobile applications.  Loves Linux and Open-Source Software.  Likes to name things after fruit.
+Graphics designer turned programmer, who works on web and mobile applications.  Holds interest in everything Linux and Open-Source.  Likes to name things after fruit.
 
 ### Eduardo Arevalos
 
