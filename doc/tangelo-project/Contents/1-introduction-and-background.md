@@ -32,6 +32,7 @@ Experienced in graphics programming and Linux.  Has interests in system programm
 Has been working with computers from a very young age, and her first experience with coding coming in the form of HTML.  She created webpages and fixed computers as a fun hobby in middle school and high school, this hobby carried onto  her interests in college, which led her to a major in computer science, where she learned other languages, such as C++ and Java.
 
 ### Tyler Goodman
+Interested in web development and NodeJS.  Experienced in using various web frameworks.
 
 <div class="break"></div>
 
