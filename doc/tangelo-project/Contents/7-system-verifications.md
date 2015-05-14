@@ -7,12 +7,12 @@
 ## Password management
 - Administrator will be able to set a user’s password
 - Administrator will be able to set how long until a user needs to change their password
-- Users will be able to request to reset their passwords if they have forgotten them
+- User will be able to request to reset their password if they have forgotten them
 
 ## Account management
 - Administrator will be able to set up user accounts from a CSV file
 - Administrator will be able to set up to create and remove individual users from an administrator panel
-- Users will be able to manage their accounts and profile (for example name, email address and password)
+- User will be able to manage their account and profile (for example name, email address and password)
 
 ## Instance management
 - Administrator will be able to view the status of servers and container instances from a control panel
@@ -69,7 +69,7 @@
 | Pre-Conditions                           | Must be logged in as an Admin                                                                        |
 | Post-Conditions                          | Added user appears in user lists                                                                     |
 | Input Specifications                     | CSV file that contains valid information for the the users to be added                               |
-| Expected Output Specifications           | There are  new users                                                                                 |
+| Expected Output Specifications           | There are new users                                                                                 |
 | Pass/Fail Criteria                       | Users can be seen in list of users                                                                   |
 | Assumptions and Constraints              | Website is active and working properly                                                               |
 
@@ -79,7 +79,7 @@
 | Pre-Conditions                           | Must be logged in as an Admin                                                                        |
 | Post-Conditions                          | Change in user information appears in user lists                                                     |
 | Input Specifications                     | desired change username, first name, last name, e-mail address, user-type(user or admin), or  password and password confirmation |
-| Expected Output Specifications           | Userís information has been edited                                                                   |
+| Expected Output Specifications           | User's information has been edited                                                                   |
 | Pass/Fail Criteria                       | Change in user information can be seen in list of users                                              |
 | Assumptions and Constraints              | Website is active and working properly                                                               |
 
@@ -250,7 +250,7 @@
 | Post-Conditions                          | Changes made to profile will be saved and displayed                                                  |
 | Input Specifications                     | User inputs different information than currently provided                                            |
 | Expected Output Specifications           | New information posted to user profile                                                               |
-| Pass/Fail Criteria                       | Usersí new information is displayed upon viewing the profile                                         |
+| Pass/Fail Criteria                       | Users' new information is displayed upon viewing the profile                                         |
 | Assumptions and Constraints              | Website is active and working properly                                                               |
 
 | Test Case #23                            |                                                                                                      |

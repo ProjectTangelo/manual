@@ -13,7 +13,7 @@ Source: [https://github.com/ProjectTangelo/manual](https://github.com/ProjectTan
 
 ### frontend-poc
 
-Contains NodeJS application to be deployed on master.  
+Contains Node.js application to be deployed on master.  
 Source: [https://github.com/ProjectTangelo/frontend-poc](https://github.com/ProjectTangelo/frontend-poc)
 
 ### tangelo-angular

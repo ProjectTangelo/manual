@@ -4,7 +4,7 @@
 
 ### Keystone.JS
 
-KeystoneJS is a CMS for NodeJS.  It does the bulk of the work related to presenting database materials in a pretty user interface with the ability to easily edit any information.  Keystone is not awful itself, but did not work for the requirements of our project.  Keystone’s problem for our project was in its flexibility.  Keystone is not able to be customized to the extent required to implement the functionality and user experience that we wanted for our project.  Obviously, we did not know this prior to choosing it to act as our CMS.
+KeystoneJS is a CMS for Node.js.  It does the bulk of the work related to presenting database materials in a pretty user interface with the ability to easily edit any information.  Keystone is not awful itself, but did not work for the requirements of our project.  Keystone’s problem for our project was in its flexibility.  Keystone is not able to be customized to the extent required to implement the functionality and user experience that we wanted for our project.  Obviously, we did not know this prior to choosing it to act as our CMS.
 
 At the time that Sprint 1 was coming to a close, we had invested too much time into learning Keystone and forcing it to work.  Because of this, there was not enough time to abandon it and find a replacement before the Sprint 1 presentation.
 
@@ -20,8 +20,8 @@ It’s not a proper hypervisor so we couldn’t do things like limit RAM or CPU 
 ### Using PostgresSQL instead of MongoDB
 There’s not a technical reason for this but using a relational database would have helped increased the partition in our group as the non-relational database did hinder some of the team. 
 
-### Using something other than Node.JS
-We went with Node.JS because that was what the people responsible for the frontend wanted. We switched libraries several times and it was disheartening to see a few of them new, but not frequently maintained. Using Python’s Django or PHP’s Symfony may have been unsexy but we would have had better support.
+### Using something other than Node.js
+We went with Node.js because that was what the people responsible for the frontend wanted. We switched libraries several times and it was disheartening to see a few of them new, but not frequently maintained. Using Python’s Django or PHP’s Symfony may have been unsexy but we would have had better support.
 
 ## Suggestions for future extensions to project
 

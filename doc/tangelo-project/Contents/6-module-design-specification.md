@@ -12,7 +12,7 @@ There are interaction scripts that are in each container that allow the user to 
 
 ## Web UI
 
-The product is meant to be used from the browser. The frontend is served from a Node.js server running on the master node and provides session handling and management for the administrator and user. The administrator will be able to upload documents and manage instances. The user will be able to use the console to access their Linux instances.
+The product is meant to be used from the browser. The frontend is served from a Node.js server running on the master node and provides session handling and management for the administrator and user. The administrator may upload documents and manage instances. The user can use the console to access their Linux instances.
 
 ## Salt Modules
 

@@ -2,7 +2,7 @@
 
 ## System DataBase/File Structure Specification
 
-Data in stored in MongoDB. The base form of our documetns are as follows. 
+Data in stored in MongoDB. The base form of our documents are as follows. 
 
 ### Users
 

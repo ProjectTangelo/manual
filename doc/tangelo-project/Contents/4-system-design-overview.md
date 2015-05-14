@@ -1,5 +1,7 @@
 #System Design Overview#
 
+<div class="break"></div>
+
 ## Stack
 
 Below is an overview of the software stack we used for developing Tangelo
@@ -13,11 +15,11 @@ Below is an overview of the software stack we used for developing Tangelo
 
 ![Salt Communication](images/salt.png)
 
-Communication between master and minion nodes is down with SaltStack. There is a daemon that runs on the minion and master that facilitates this. Salt modules are programs.
+Communication between master and minion nodes is done with the Salt Stack. There is a daemon that runs on the minion and master that facilitates this. Salt modules are programs.
 
-We are using Salt for remote execution and the storing of configuration directives can be simply done by logging onto the master machine and then executing a command on one or many other machines at once.
+We are using Salt for remote execution.  The storing of configuration directives can be simply done by logging onto the master machine and then executing a command on one or many other machines at once.
 
-The way in which we are using Salt is to set up all the individual instances of Linux. We also combined the power of Salt with simple Linux Bash command to run and return needed data across all running Linux instances to get back information for example CPU,  memory and disk usage.
+The way in which we are using Salt is to set up all the individual instances of Linux. We also combined the power of Salt with simple Linux Bash command to run and return needed data across all running Linux instances to get back information for example CPU, memory and disk usage.
 
 <div class="break"></div>
 
@@ -50,7 +52,7 @@ Tangelo is implemented in the following languages:
   - Javascript
   - PHP
   - Shell
-  - C++
+  - C
   - HTML+CSS
   - Ruby (Vagrantfiles)
 
