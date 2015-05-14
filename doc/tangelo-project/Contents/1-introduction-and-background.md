@@ -38,9 +38,12 @@ During a recent CSULB semester, the Linux computer labs were replaced by Windows
 
 ## Brief Project Description
 
-Tangelo is an application that allows user to login to a Linux terminal session through the browser. The user’s session is sandboxed, so they have full control over their container instance. An important feature of our application is that it is easy to install for an administrator so they may use it on their own servers. 
+Tangelo is an applicaiton that provides sandboxed Linux sessions in the browser.
+Users will have full control over their instance while administrators will be able to
+reset and halt them if needed. 
 
-The administrator may also provide documents for things like a lesson plan or assignments that other users may refer to while using the system. Another important feature is the administrative control over user containers. If a user locks up their container, the administrator can halt and reset it.  Our application may aid small vocational schools or secondary level institutions where appropriating a large IT staff is not feasible.  
+The administrator will be able to upload lesson plans or documents that users
+can refer to.
 
 <div class="break"></div>
 

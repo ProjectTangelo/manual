@@ -39,24 +39,24 @@ The user will be able to have a scratchpad available to use like a secondary cli
 ![ Client views submissions ](images/screens/client-submissions.png)
 The user will be able to see their submissions and comments made by the administrator here. 
 
+<div class="break" ></div>
 ## System Specifications
 ### Authentication of users to Linux instances
 
  When a session is created, it will be sent out to all of the nodes.
 
- Each node will have a folder called /opt/tangelo_sessions/
+ Each node will have a folder called `/opt/tangelo_sessions/`
 
- Session files will be written in the directory, on each relevant node
+ Session files will be written in the directory, on each relevant node.
 
  The master will write a file onto the other nodes. It will also be able to
- delete those nodes. We’re doing files in a directory because then we wouldn’t
- have to lock a single file to do operations on it and that makes things easier.
+ delete those nodes. We're implementing this with files in a directory because 
+ it will be simpler than having a single file we will have to lock.
 
  **To check if a node has a session**
 
  Given the url:
- https//node-01.tangelo.work/?session_id=XXXXXXXX
+ `https//node-01.tangelo.work/?session_id=XXXXXXXX`
 
- The session is valid iff the file /opt/tangelo_sessions/XXXXXXXX.session exists
-
+ The session is valid iff the file `/opt/tangelo_sessions/XXXXXXXX.session` exists
  XXXXXXXX will be 32 characters long
