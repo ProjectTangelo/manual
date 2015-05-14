@@ -250,9 +250,10 @@
 | Pass/Fail Criteria                       | Panel size has been successfully changed                                                             |
 | Assumptions and Constraints              | website is working properly                                                                          |
 
-
-## Test run procedure and results
 ### Visual Diff/PhantomJS Testing
-### Protractor Testing
 
-## Discussion of test results
+We ran a script that took a screenshot of a particular page and compared this screenshot to the screenshot taken of another page, to determine whether or not there was a visual difference.  It alllowed us to catch errors we would have not otherwise been seen with unit testing.
+
+
+### Protractor Testing
+Allowed us to test the application as it would perform on a browser.  This allowed us to make sure that the application/website worked or performed as expected or planned.  Makes use of Selenium in order to run the tests against web browsers.

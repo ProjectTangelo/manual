@@ -14,6 +14,7 @@ book:
         # tables), part, preface, prologue, title, toc (table of contents)
         - { element: cover }
         - { element: toc   }
+        - { element: author, content: author.md }
         - { element: chapter, number: 1, content: 1-introduction-and-background.md }
         - { element: chapter, number: 2, content: 2-system-functional-specification.md }
         - { element: chapter, number: 3, content: 3-system-performance-requirements.md }
@@ -22,9 +23,10 @@ book:
         - { element: chapter, number: 6, content: 6-module-design-specification.md }
         - { element: chapter, number: 7, content: 7-system-verifications.md }
         - { element: chapter, number: 8, content: 8-conclusions.md }
-        - { element: chapter, number: 9, content: 9-appendix.md }
-        - { element: chapter, number: 10, content: 10-program-listings.md }
-        - { element: chapter, number: 11, content: 11-api.md }
+        - { element: chapter, number: 9, content: 10-program-listings.md }
+        - { element: chapter, number: 10, content: 11-api.md }
+        - { element: lof }
+        - { element: lot }
 
     editions:
         ebook:

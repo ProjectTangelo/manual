@@ -37,3 +37,6 @@ The user will be able to have a scratchpad available to use like a secondary cli
 
 ![ Client views submissions ](images/screens/client-submissions.png)
 The user will be able to see their submissions and comments made by the administrator here. 
+
+## System Specifications
+### Authentication of users
