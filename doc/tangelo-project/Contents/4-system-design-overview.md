@@ -19,7 +19,7 @@ Communication between master and minion nodes is done with the Salt Stack. There
 
 We are using Salt for remote execution.  The storing of configuration directives can be simply done by logging onto the master machine and then executing a command on one or many other machines at once.
 
-The way in which we are using Salt is to set up all the individual instances of Linux. We also combined the power of Salt with simple Linux Bash command to run and return needed data across all running Linux instances to get back information for example CPU, memory and disk usage.
+Salt sets up all the individual instances of Linux. We also combine the power of Salt with simple Linux Bash commands to retrieve desired data across all running Linux instances related to information on the CPU, memory, and disk usage.
 
 <div class="break"></div>
 
