@@ -27,6 +27,7 @@ Experienced in developing the frontend and backend of video games as well as des
 ### Shane Satterfield
 
 ### Tiffany Artis
+Has been working with computers from a very young age, and her first experience with coding coming in the form of HTML.  She creating webpages and fixed computers as a fun hobby in middle school and high school, this hobby carried into  her interests in college, which led her to a major in computer science, where she learned other languages, such as C++ and Java.
 
 ### Tyler Goodman
 
