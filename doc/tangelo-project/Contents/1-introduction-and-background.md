@@ -2,13 +2,7 @@
 
 <div class="break"></div>
 
-## Statement of Problem Area
-
-During a recent CSULB semester, the Linux computer labs were replaced by Windows labs.  As a result, classes that heavily focused on using the Linux operating system forced students to install Linux on their personal computers and laptops via manual installation or a virtual machine.  This process has proven to be strenuous and adds an unnecessary setup time for the class.  Problems that students encounter may also rely on their hardware, due to the lack of uniform development environment.
-
-<div class="break"></div>
-
-## Background
+## Team Background
 
 ### David Nuon
 
@@ -19,36 +13,40 @@ Graphics designer turned programmer, who works on web and mobile applications.  
 Follower of modern events related to gaming and computers.  Hard working student who took up interest in computer science at the end of high school.  Aims to work in an engineering setting where he can apply his skills.
 
 ### Forest Turner
-Experienced with 3D printing and hands on electronics. Is interested in studying algorithms. Aims to work in an engineering setting where he can apply his skills.
+Experienced with 3D printing and hands-on electronics.  Interested in studying algorithms and participates in the CSULB programming team. Aims to work in an engineering setting where he can apply his skills.
 
 ### Johnny Patterson
 
 Experienced in developing the frontend and backend of video games as well as desktop, web, mobile, and embedded applications.  Aims to work in an engineering setting, working on robots and/or rockets.
 
 ### Shane Satterfield
-Experienced in graphics programming and Linux.  Has interests in system programming and studying algorithms.  Aims to work in an engineering setting where he can apply his skills.
+Experienced in graphics programming and Linux.  Has interest in system programming and studying algorithms.  Aims to work in an engineering setting where he can apply his skills.
 
 ### Tiffany Artis
-Has been working with computers from a very young age, and her first experience with coding coming in the form of HTML.  She created webpages and fixed computers as a fun hobby in middle school and high school, this hobby carried onto  her interests in college, which led her to a major in computer science, where she learned other languages, such as C++ and Java.
+Has been working with computers from a very young age, and her first experience with coding coming in the form of HTML.  Created webpages and fixed computers as a fun hobby throughout middle school and high school.
 
 ### Tyler Goodman
-Interested in web development and NodeJS.  Experienced in using various web frameworks.
+Interested in web development and Node.js.  Experienced in using various web frameworks.
+
+<div class="break"></div>
+
+## Statement of Problem Area
+
+During a recent CSULB semester, the Linux computer labs were replaced by Windows labs.  As a result, classes that heavily focused on using the Linux operating system forced students to install Linux on their personal computers and laptops via manual installation or a virtual machine.  This process has proven to be strenuous and adds an unnecessary setup time for the class.  Problems that students encounter may also rely on their hardware, due to the lack of a uniform development environment.
 
 <div class="break"></div>
 
 ## Brief Project Description
 
-Tangelo an application that allows user to login to a Linux terminal session through the browser. The user’s session will be sandboxed and he or she will be able to have full control over their container instance. An important feature of our application is that it will be easy to install by an administrator so that he or she may use it on their own servers. 
+Tangelo is an application that allows user to login to a Linux terminal session through the browser. The user’s session is sandboxed, so they have full control over their container instance. An important feature of our application is that it is easy to install for an administrator so they may use it on their own servers. 
 
-The administrator may also provide documents for things like a lesson plan or assignments that other users may refer to while using the system. Another important feature would be allowing the administrator to control each container a user has. If a user locks up their container, the administrator will be able to halt and reset it. An application such as ours can be useful for small vocational schools or secondary level institutions where appropriating a large IT staff is not feasible.
+The administrator may also provide documents for things like a lesson plan or assignments that other users may refer to while using the system. Another important feature is the administrative control over user containers. If a user locks up their container, the administrator can halt and reset it.  Our application may aid small vocational schools or secondary level institutions where appropriating a large IT staff is not feasible.  
 
 <div class="break"></div>
 
 ## Purpose/Objectives
 
-Our product would allows users to have hands on experience with the use Linux through a web browser, in situations where they would otherwise not have access to.  In addition, by giving administrators the ability to create, destroy, halt, or restart instances will allow users to recover from what could have been a fatal mistake. 
-
-Finally, by allowing instances  to be kept separate and/or on their own server(s), the actions of one user will not negatively impact other users.
+Our product allows users to have hands on experience with the Linux operating system through a web browser, in situations where they would otherwise not have access to it.  In addition, by giving administrators the ability to create, destroy, halt, or restart instances will allow users to recover from what could have been a fatal mistake.  Finally, by allowing instances to be kept separate and/or on their own server(s), the actions of one user will not negatively impact other users.
 
 <div class="break"></div>
 
