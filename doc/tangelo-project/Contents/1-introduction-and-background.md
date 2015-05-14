@@ -12,6 +12,8 @@ During a recent CSULB semester, the Linux computer labs were replaced by Windows
 
 ### David Nuon
 
+David says he's a web and android developer and shit like that.
+
 ### Eduardo Arevalos
 
 ### Forest Turner
