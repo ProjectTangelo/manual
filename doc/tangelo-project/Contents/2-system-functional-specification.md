@@ -43,20 +43,19 @@ The user will be able to see their submissions and comments made by the administ
 ## System Specifications
 ### Authentication of users to Linux instances
 
- When a session is created, it will be sent out to all of the nodes.
+ When a session is created, its ID is sent out to all of the nodes.
 
- Each node will have a folder called `/opt/tangelo_sessions/`
+ Each node has a folder called `/opt/tangelo_sessions/`
 
- Session files will be written in the directory, on each relevant node.
+ Session files are written in the directory, on each relevant node.
 
- The master will write a file onto the other nodes. It will also be able to
- delete those nodes. We're implementing this with files in a directory because 
- it will be simpler than having a single file we will have to lock.
+ The master writes a file onto the other nodes. It can also
+ deletes those nodes. We're implementing this with files in a directory because 
+ it is simpler than having a monolithic file, or database.
 
- **To check if a node has a session**
+ **To check if a node has a session:**
 
  Given the url:
  `https//node-01.tangelo.work/?session_id=XXXXXXXX`
 
- The session is valid iff the file `/opt/tangelo_sessions/XXXXXXXX.session` exists
- XXXXXXXX will be 32 characters long
+ The session is valid if and only if the file `/opt/tangelo_sessions/XXXXXXXX.session` exists.

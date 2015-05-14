@@ -2,54 +2,17 @@
 
 <div class="break"></div>
 
-## Team Background
-
-### David Nuon
-
-Graphics designer turned programmer, who works on web and mobile applications.  Holds interest in everything Linux and Open-Source.  Likes to name things after fruit.
-
-### Eduardo Arevalos
-
-Follower of modern events related to gaming and computers.  Hard working student who took up interest in computer science at the end of high school.  Aims to work in an engineering setting where he can apply his skills.
-
-### Forest Turner
-Experienced with 3D printing and hands-on electronics.  Interested in studying algorithms and participates in the CSULB programming team. Wants to apply his skills in an engineering job.
-
-### Johnny Patterson
-
-Experienced in developing the frontend and backend of video games as well as desktop, web, mobile, and embedded applications.  Desires to work on robots and/or rockets for a living.
-
-### Shane Satterfield
-Proficient in graphics programming and using Linux.  Has interest in system programming and studying algorithms.
-
-### Tiffany Artis
-Has been working with computers from a very young age.  Created webpages and fixed computers as a fun hobby throughout middle school and high school.
-
-### Tyler Goodman
-Interested in web development, notably applications with Node.js.  Experienced in using various web frameworks.
-
-<div class="break"></div>
-
 ## Statement of Problem Area
 
 During a recent CSULB semester, the Linux computer labs were replaced by Windows labs.  As a result, classes that heavily focused on using the Linux operating system forced students to install Linux on their personal computers and laptops via manual installation or a virtual machine.  This process has proven to be strenuous and adds an unnecessary setup time for the class.  Problems that students encounter may also rely on their hardware, due to the lack of a uniform development environment.
 
-<div class="break"></div>
-
 ## Brief Project Description
 
-Tangelo is an applicaiton that provides sandboxed Linux sessions in the browser.
-Users will have full control over their instance while administrators will be able to
-reset and halt them if needed. 
-
-The administrator will be able to upload lesson plans or documents that users
-can refer to.
-
-<div class="break"></div>
+Tangelo is an applicaiton that provides sandboxed Linux sessions in the browser.  Users have full control over their instance while administrators can reset and halt them if needed.  The administrator may upload lesson plans or documents that users can refer to.
 
 ## Purpose/Objectives
 
-Our product allows users to have hands on experience with the Linux operating system through a web browser, in situations where they would otherwise not have access to it.  In addition, by giving administrators the ability to create, destroy, halt, or restart instances will allow users to recover from what could have been a fatal mistake.  Finally, by allowing instances to be kept separate and/or on their own server(s), the actions of one user will not negatively impact other users.
+To provide an alternative platform that professors can use to teach classes that utilize the Linux operating system with a uniform development environment.
 
 <div class="break"></div>
 
@@ -184,6 +147,8 @@ changes to the database</span></p>
 </tr>
 </tbody>
 </table>
+
+<div class="break"></div>
 
 <table cellpadding="0" cellspacing="0" class="c34">
 <tbody>
@@ -324,11 +289,7 @@ and shows scratchpad</span></p>
 <p class="c10"><span class="c11">Eduardo Arevalos</span></p>
 </td>
 </tr>
-</tbody>
-</table>
 
-<table cellpadding="0" cellspacing="0" class="c34">
-<tbody>
 <tr class="c3">
 <td class="c55" colspan="1" rowspan="1">
 <p class="c15"><span class="c11">Administrator will be able to set quotas for
