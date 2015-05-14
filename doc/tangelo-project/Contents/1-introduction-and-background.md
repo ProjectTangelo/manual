@@ -8,9 +8,29 @@ During a recent CSULB semester, the Linux computer labs were replaced by Windows
 
 <div class="break"></div>
 
+## Background
+
+### David Nuon
+
+### Eduardo Arevalos
+
+### Forest Turner
+
+### Johnny Patterson
+
+Experienced in developing the frontend and backend of video games as well as desktop, web, mobile, and embedded applications.  Aims to work in an engineering setting, working on robots and/or rockets.
+
+### Shane Satterfield
+
+### Tiffany Artis
+
+### Tyler Goodman
+
+<div class="break"></div>
+
 ## Brief Project Description
 
-Tangelo an application that allows user to login to a Linux  terminal session through the browser. The user’s session will be sandboxed and he or she will be able to have full control over their container instance. An important feature of our application is that it will be easy to install by an administrator so that he or she may use it on their own servers. 
+Tangelo an application that allows user to login to a Linux terminal session through the browser. The user’s session will be sandboxed and he or she will be able to have full control over their container instance. An important feature of our application is that it will be easy to install by an administrator so that he or she may use it on their own servers. 
 
 The administrator may also provide documents for things like a lesson plan or assignments that other users may refer to while using the system. Another important feature would be allowing the administrator to control each container a user has. If a user locks up their container, the administrator will be able to halt and reset it. An application such as ours can be useful for small vocational schools or secondary level institutions where appropriating a large IT staff is not feasible.
 
