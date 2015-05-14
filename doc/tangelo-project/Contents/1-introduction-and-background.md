@@ -12,23 +12,27 @@ During a recent CSULB semester, the Linux computer labs were replaced by Windows
 
 ### David Nuon
 
-David says he's a web and android developer and shit like that.
+Graphics designer turned programmer, who works on web and mobile applications.  Holds interest in everything Linux and Open-Source.  Likes to name things after fruit.
 
 ### Eduardo Arevalos
 
-Follower of modern events related to gaming and computers.  Hard working student who took up interest in computer science at the end of high school.
+Follower of modern events related to gaming and computers.  Hard working student who took up interest in computer science at the end of high school.  Aims to work in an engineering setting where he can apply his skills.
 
 ### Forest Turner
+Experienced with 3D printing and hands on electronics. Is interested in studying algorithms. Aims to work in an engineering setting where he can apply his skills.
 
 ### Johnny Patterson
 
 Experienced in developing the frontend and backend of video games as well as desktop, web, mobile, and embedded applications.  Aims to work in an engineering setting, working on robots and/or rockets.
 
 ### Shane Satterfield
+Experienced in graphics programming and Linux.  Has interests in system programming and studying algorithms.  Aims to work in an engineering setting where he can apply his skills.
 
 ### Tiffany Artis
+Has been working with computers from a very young age, and her first experience with coding coming in the form of HTML.  She created webpages and fixed computers as a fun hobby in middle school and high school, this hobby carried onto  her interests in college, which led her to a major in computer science, where she learned other languages, such as C++ and Java.
 
 ### Tyler Goodman
+Interested in web development and NodeJS.  Experienced in using various web frameworks.
 
 <div class="break"></div>
 
