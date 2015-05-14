@@ -11,6 +11,7 @@ Returns the resource that belongs to that identifier
 
 ####GET /:resource?conditions={}&fields=””&options={}
 Returns all resources that pass the given criteria
+
 - Query parameters:
     - conditions
         - JSON literal
@@ -39,6 +40,7 @@ Deletes a resource. Often requires administrator authorization.
 - /feedback
 - /file
 - /upload
+- /lxc
 
 ####/upload
 The **/upload** resource is unique from the others.  Instead of providing a model and CRUD service on that model, **/upload** provides a means to retrieve previously uploaded files on the **/file** resource.  The **/file** resource itself stores and returns metadata for a given file.
