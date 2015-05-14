@@ -1,8 +1,9 @@
 #System Functional Specification#
-## User Interface Design
-The user interface is meant to leverage newer browser technologies like CSS3 and HTML5. Some of the new features used is the drag-and-drop API and media queries for responsive design. 
 
 <div class="break"></div>
+
+## User Interface Design
+The user interface is meant to leverage newer browser technologies like CSS3 and HTML5. Some of the new features used is the drag-and-drop API and media queries for responsive design. 
 
 ### Admin Screens
 ![ Landing admin screen ](images/screens/admin_screen.png)

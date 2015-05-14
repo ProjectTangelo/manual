@@ -84,8 +84,8 @@ expiration</span></p>
 
 <p class="c8 c1"></p>
 
-<p class="c15"><span class="c11">Users will be able to request to reset their
-passwords</span></p>
+<p class="c15"><span class="c11">User will be able to request to reset their
+password</span></p>
 </td>
 
 <td class="c5" colspan="1" rowspan="1">
@@ -159,7 +159,7 @@ fields</span></p>
 
 <tr class="c3">
 <td class="c24" colspan="1" rowspan="1">
-<p class="c15"><span class="c11">Users will be able to manage their accounts
+<p class="c15"><span class="c11">User will be able to manage their account
 and profile (for example name, email address and password)</span></p>
 
 <p class="c8 c1"></p>
@@ -518,7 +518,7 @@ software automatically</span></p>
 </td>
 
 <td class="c46" colspan="1" rowspan="1">
-<p class="c10"><span class="c11">Write installer for the node.js frontend for
+<p class="c10"><span class="c11">Write installer for the Node.js frontend for
 the system</span></p>
 
 <p class="c8 c1"></p>
