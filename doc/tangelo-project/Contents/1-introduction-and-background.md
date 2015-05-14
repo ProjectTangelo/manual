@@ -16,9 +16,10 @@ Graphics designer turned programmer, who works on web and mobile applications.  
 
 ### Eduardo Arevalos
 
-Follower of modern events related to gaming and computers.  Hard working student who took up interest in computer science at the end of high school.
+Follower of modern events related to gaming and computers.  Hard working student who took up interest in computer science at the end of high school.  Aims to work in an engineering setting where he can apply his skills.
 
 ### Forest Turner
+Experienced with 3D printing and hands on electronics. Is interested in studying algorithms. Aims to work in an engineering setting where he can apply his skills.
 
 ### Johnny Patterson
 
