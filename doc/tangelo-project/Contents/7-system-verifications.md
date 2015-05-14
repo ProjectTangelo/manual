@@ -1,5 +1,38 @@
 #System Verifications#
 
+## Installing and managing software
+- Administrator will be able to deploy the software from an automatic install
+- Administrator will be able to update the software automatically
+
+## Password management
+- Administrator will be able to set a user’s password
+- Administrator will be able to set how long until a user needs to change their password
+- Users will be able to request to reset their passwords if they have forgotten them
+
+## Account management
+- Administrator will be able to set up user accounts from a CSV file
+- Administrator will be able to set up to create and remove individual users from an administrator panel
+- Users will be able to manage their accounts and profile (for example name, email address and password)
+
+## Instance management
+- Administrator will be able to view the status of servers and container instances from a control panel
+- Administrator will be able to add and remove container instances
+- Administrator will be able to freeze and restart container instances from a control panel
+
+## Lesson Plans and Assignments
+- Administrator will be able to submit documents (PDF, HTML, DOCX, and ODF) for other users to view
+- Administrator will be able to view work a user submitted and provide feedback on user submissions
+- User will be able to submit work to the administrator
+
+## Terminal Sessions
+- User will be able to log into the system (from the browser) and access a terminal session that is logged into their container instance
+- User will be able have full access control over their container instance (including installing things inside it)
+- Administrator will be able to set quotas for usage for the containers (CPU shares, memory usage)
+- Administrator will be able to shutdown and restart containers if it is frozen
+- User will be able to have a text scratchpad available to take notes
+- User will be able to adjust the sizes of the panels in their terminal session (terminal, lesson plan, scratchpad)
+
+
 | Test Case #1                             |                                                                                                      |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | Test Item                                | Admin will be able to successfully login                                                             |
@@ -249,6 +282,8 @@
 | Expected Output Specifications           | Panel size has been changed                                                                          |
 | Pass/Fail Criteria                       | Panel size has been successfully changed                                                             |
 | Assumptions and Constraints              | website is working properly                                                                          |
+
+## Testing methods
 
 ### Visual Diff/PhantomJS Testing
 
